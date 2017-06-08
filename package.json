@@ -1,0 +1,16 @@
+{
+  "name": "paint",
+  "version": "1.0.0",
+  "description": "",
+  "main": "paint.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node paint.js"
+  },
+  "author": "Steven Green",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.2",
+    "socket.io": "^2.0.1"
+  }
+}

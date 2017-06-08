@@ -1,0 +1,20 @@
+Controls:
+
+Up Arrow: Increase size by 5
+Down Arrow: Decrease size by 5
+Right Arrow: Set size to 70
+Left Arrow: Set size to 15
+S: Save a picture
+R: Reset (once every 30s)
+Shift+click or right click: Erase
+
+Protips:
+
+Hue goes from 0-360; Saturation goes from 0-100; Brightness goes from 0-100
+Press the "Change color" button with nothing in the boxes for a random color
+Type "Rainbow" in the hue box and put the saturation and brightness for rainbow colors
+If you put nothing in saturation and brightness boxes, they will default to 100.
+Hue will default to a random number between 0 and 360 if left blank
+
+
+
